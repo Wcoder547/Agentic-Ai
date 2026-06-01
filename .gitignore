@@ -89,8 +89,6 @@ storage/
 
 # =========================
 # PDF / Dataset Files
-# Remove this if your PDF is required in repo
 # =========================
-*.pdf
 data/
 datasets/
